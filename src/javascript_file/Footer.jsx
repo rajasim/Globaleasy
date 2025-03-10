@@ -35,11 +35,11 @@ function Footer() {
           <h3>Contact US</h3>
           <p>
             {" "}
-            <i class="fa-solid fa-phone "></i> Cell : +91-9922 925 855
+            <i class="fa-solid fa-phone fa-lg " style={{color:"gray"}}></i> Cell : +91-9922 925 855
           </p>
           <p>
             {" "}
-            <i class="fa-solid fa-envelope"></i> Email :
+            <img src="/images/gmail.png" style={{height:"1.2rem"}}></img> Email :
             easyglobalconnects@gmail.com
           </p>
           <p>
@@ -48,7 +48,7 @@ function Footer() {
               className="mail"
             >
               {" "}
-              <i class="fa-brands fa-square-whatsapp"></i> WHATSAPP : Connect Us
+              <i class="fa-brands fa-square-whatsapp fa-lg" style={{color: "#07b023"}}></i> WHATSAPP : Connect Us
             </a>{" "}
           </p>
         </blockquote>
@@ -67,7 +67,7 @@ function Footer() {
               className="mail"
             >
               {" "}
-              <i class="fa-brands fa-linkedin"></i> EASY GLOBAL LINKEDIN.com
+              <i class="fa-brands fa-linkedin fa-lg" style={{color:"skyblue"}}></i> EASY GLOBAL LINKEDIN.com
             </a>
           </p>
 

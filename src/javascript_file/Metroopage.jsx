@@ -1,14 +1,48 @@
 import React, { useRef } from "react";
 import "../css_files/Metropage.css";
+import { useEffect } from "react";
 
 const Metroopage = () => {
   const linkref = useRef();
+  const herocontentref=useRef();
+
+  useEffect(() => {
+      const observe = (entries, observer) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            const div = entry.target.querySelector("div");
+  
+            div.style.left = "2%";
+            div.style.transition = "left 3s ease";
+  
+            observer.disconnect();
+          }
+        });
+      };
+  
+      const options = {
+        root: null,
+        rootMargin: "15%",
+        threshold: 0.5,
+      };
+      const observer = new IntersectionObserver(observe, options);
+  
+      if (herocontentref.current) {
+        observer.observe(herocontentref.current);
+      }
+  
+      return () => {
+        if (herocontentref.current) {
+          observer.unobserve(herocontentref.current);
+        }
+      };
+    }, []);
 
   return (
     <div className="metro-container">
       <nav className="navbar">
         <img
-          src="/images/logo.jpeg"
+          src="/images/logoo.jpeg"
           style={{ width: "250px", height: "75px" }}
         ></img>
 
@@ -20,13 +54,13 @@ const Metroopage = () => {
             </li>
             <li>
               {" "}
-              <a href="#homecontainer">Servics</a>
+              <a href="#foter">Contact Us</a>
             </li>
             <li>
-              <a href="#foter">Contact US</a>
+            <a href="#homecontainer">Servics</a>
             </li>
             <li>
-              <a href="#foter">Connect US</a>
+              <a href="#foter">Connect Us</a>
             </li>
           </ul>
         </aside>
@@ -42,7 +76,7 @@ const Metroopage = () => {
           }}
         ></i>
       </nav>
-      <header className="hero-section">
+      <header className="hero-section" ref={herocontentref}>
         <figure>
           <img src="/images/gl.jpeg" />
 

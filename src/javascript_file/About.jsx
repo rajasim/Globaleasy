@@ -51,15 +51,12 @@ function About() {
           </blockquote>
           <blockquote>
             <p>
-              we are passionate about bridging the gap between international
-              buyers and Indian suppliers. Our journey began with a simple yet
-              powerful idea: to make global trade easier, more reliable, and
-              sustainable.<br></br>
-              <br></br>
-              We specialize in connecting businesses worldwide with high-quality
+            We specialize in connecting businesses worldwide with high-quality
               Indian products across diverse sectors, including engineering
               rubber & polymer products, dried processed foods, woven textiles,
-              and ISO certification services. Our team is dedicated to providing
+              and ISO certification services<br></br>
+              <br></br>
+               Our team is dedicated to providing
               seamless export solutions, ensuring that every transaction is
               smooth, efficient, and transparent. We believe in fostering
               long-term relationships built on trust, quality, and mutual
@@ -70,7 +67,9 @@ function About() {
             <p>
               Our primary goal is to establish Easy Global Connect as a leading
               facilitator of international trade, recognized for its commitment
-              to quality, reliability, and ethical sourcing practices. We aim to
+              to quality, reliability, and ethical sourcing practices.<br></br>
+              <br></br>
+              We aim to
               empower businesses globally by providing them with access to
               premium Indian products and services, while contributing
               positively to the economic and social development of our
