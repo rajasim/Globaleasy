@@ -122,6 +122,9 @@ body {
     
     font-size: 2rem;
   }
+  .hero-content h3 {
+    font-size: 1.4rem;
+  }
 
   .hero-content blockquote {
     width: 60%;
