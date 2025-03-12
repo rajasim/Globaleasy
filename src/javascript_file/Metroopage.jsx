@@ -42,7 +42,7 @@ const Metroopage = () => {
     <div className="metro-container">
       <nav className="navbar">
         <img
-          src="/images/logoo.jpeg"
+          src="/images/globallogo.jpeg"
           style={{ width: "250px", height: "75px" }}
         ></img>
 
@@ -60,7 +60,7 @@ const Metroopage = () => {
             <a href="#homecontainer">Services</a>
             </li>
             <li>
-              <a href="#foter">Connect Us</a>
+              <a href="#foter">Enquire Now</a>
             </li>
           </ul>
         </aside>
@@ -87,7 +87,9 @@ const Metroopage = () => {
               <p>
                 At Easy Global Connect, our vision is to revolutionize global
                 trade by crafting a seamless, sustainable, and customer-centric
-                ecosystem. We envision system where every transaction not only
+                ecosystem.<br></br>
+                <br></br>
+                 We envision system where every transaction not only
                 connects buyers and suppliers but also consistently exceeds
                 customer expectations, fostering long-term relationships built
                 on trust, quality, and mutual growth. Through our relentless

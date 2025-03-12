@@ -53,7 +53,7 @@ function About() {
             <p>
             We specialize in connecting businesses worldwide with high-quality
               Indian products across diverse sectors, including engineering
-              rubber & polymer products, dried processed foods, woven textiles,
+              rubber & polymer products, dried processed foods, Woven and Knitted Fabric products,
               and ISO certification services.<br></br>
               <br></br>
                Our team is dedicated to providing

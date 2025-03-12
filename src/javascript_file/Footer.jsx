@@ -9,6 +9,7 @@ function Footer() {
     });
   }, []);
   return (
+    <>
     <div className="footer" id="foter">
       <footer>
         <blockquote>
@@ -17,20 +18,20 @@ function Footer() {
             {" "}
             - Engineering Rubber & Polymer, EV &<br></br>Electronics Components
           </p>
-          <p>- Dried & Process Food & / Root Products</p>
+          <p>- Dried & Process Food / Root Products</p>
           <p>- Woven and Knitted Fabric Products</p>
           <p>- ISO Certifications and Business Excellence</p>
         </blockquote>
+        
         <blockquote>
           <h3>Company Information</h3>
           <p>
-            {" "}
-            Registered Address as per record<br></br> available in Registar of
-            <br></br> Companies office: F 803 ERR, Kashid Park,<br></br> Pimle
+            <br></br>
+            Companies Registered office:<br></br> F 803 ERR, Kashid Park,<br></br> Pimle
             Gurav, Pune 411 061. MH. India
           </p>
         </blockquote>
-
+        
         <blockquote>
           <h3>Contact US</h3>
           <p>
@@ -48,13 +49,14 @@ function Footer() {
               className="mail"
             >
               {" "}
-              <i class="fa-brands fa-square-whatsapp fa-lg" style={{color: "#07b023"}}></i> WHATSAPP : Connect Us
+              <i class="fa-brands fa-square-whatsapp " style={{color: "#07b023"}}></i> WHATSAPP : Connect Us
             </a>{" "}
           </p>
         </blockquote>
-
+         
         <blockquote>
-          <br />
+        <h3>Connect US</h3>
+          
 
           <p>
             <a href="mailto:easyglobalconnects@gmail.com" className="mail">
@@ -67,7 +69,7 @@ function Footer() {
               className="mail"
             >
               {" "}
-              <i class="fa-brands fa-linkedin fa-lg" style={{color:"skyblue"}}></i> EASY GLOBAL LINKEDIN.com
+              <i class="fa-brands fa-linkedin " style={{color:"skyblue"}}></i> EASY GLOBAL LINKEDIN.com
             </a>
           </p>
 
@@ -77,7 +79,7 @@ function Footer() {
               className="mail"
             >
               {" "}
-              <i class="fa-solid fa-window-restore fa-lg"></i> India Mart{" "}
+              <i class="fa-solid fa-window-restore "></i> India Mart
             </a>
           </p>
 
@@ -88,8 +90,17 @@ function Footer() {
             </a>
           </p>
         </blockquote>
+
+       
       </footer>
+      
+    
     </div>
+    <div className="footerdown">
+      © 2025 <span className="highlight">Anuhira Faral</span> | All Rights Reserved. | Made By & ABM Group
+   
+    </div>
+    </>
   );
 }
 

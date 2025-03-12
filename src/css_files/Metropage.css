@@ -84,10 +84,11 @@ body {
   margin-bottom: 10px;
   text-shadow: 0 0 0.5rem #b8c1ce;
   color: rgb(10, 13, 95);
+  font-size: 51px;
 }
 .hero-content h3 {
-  color: rgb(209, 22, 22);
-  text-shadow: 0 0 1rem #0f2a94;
+  color: rgb(198, 38, 17);
+  //*text-shadow: 0 0 1rem #0f2a94;*/
 }
 
 .cta-button {
