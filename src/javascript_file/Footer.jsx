@@ -58,11 +58,7 @@ function Footer() {
         <h3>Connect US</h3>
           
 
-          <p>
-            <a href="mailto:easyglobalconnects@gmail.com" className="mail">
-              <i class="fa-solid fa-desktop"></i> OUR WEBSITE{" "}
-            </a>
-          </p>
+          
           <p>
             <a
               href="https://www.linkedin.com/company/106591839/admin/dashboard/"
