@@ -57,7 +57,7 @@ const Metroopage = () => {
               <a href="#foter">Contact Us</a>
             </li>
             <li>
-            <a href="#homecontainer">Servics</a>
+            <a href="#homecontainer">Services</a>
             </li>
             <li>
               <a href="#foter">Connect Us</a>
@@ -91,7 +91,7 @@ const Metroopage = () => {
                 connects buyers and suppliers but also consistently exceeds
                 customer expectations, fostering long-term relationships built
                 on trust, quality, and mutual growth. Through our relentless
-                pursuit of excellence and customer satisfaction
+                pursuit of excellence and customer satisfaction.
               </p>
             </blockquote>
           </div>

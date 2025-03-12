@@ -9,7 +9,7 @@ const Card = () => {
       We are passionate about bridging the gap between international
               buyers and Indian suppliers. Our journey began with a simple yet
               powerful idea : To make global trade easier, more reliable, and
-              sustainable
+              sustainable.
       </h2>
       <div className="content">
         <div

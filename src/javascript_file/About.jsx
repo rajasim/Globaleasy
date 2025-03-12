@@ -54,7 +54,7 @@ function About() {
             We specialize in connecting businesses worldwide with high-quality
               Indian products across diverse sectors, including engineering
               rubber & polymer products, dried processed foods, woven textiles,
-              and ISO certification services<br></br>
+              and ISO certification services.<br></br>
               <br></br>
                Our team is dedicated to providing
               seamless export solutions, ensuring that every transaction is
@@ -73,7 +73,7 @@ function About() {
               empower businesses globally by providing them with access to
               premium Indian products and services, while contributing
               positively to the economic and social development of our
-              communities
+              communities.
             </p>
           </blockquote>
           <blockquote style={{ flexDirection: "row" }}></blockquote>
