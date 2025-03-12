@@ -17,7 +17,7 @@ const Deired = () => {
             window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
           }}
         >
-          Order Now→
+          Enquire Now
         </button>
       </div>
 
@@ -37,7 +37,7 @@ const Deired = () => {
             window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
           }}
         >
-          Order Now→
+          Enquire Now
         </button>
       </div>
 
@@ -53,7 +53,7 @@ const Deired = () => {
             window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
           }}
         >
-          Order Now→
+          Enquire Now
         </button>
       </div>
 
@@ -69,7 +69,7 @@ const Deired = () => {
             window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
           }}
         >
-          Order Now→
+          Enquire Now
         </button>
       </div>
 
@@ -85,7 +85,7 @@ const Deired = () => {
             window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
           }}
         >
-          Order Now→
+          Enquire Now
         </button>
       </div>
 
@@ -101,7 +101,7 @@ const Deired = () => {
             window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
           }}
         >
-          Order Now→
+          Enquire Now
         </button>
       </div>
 
