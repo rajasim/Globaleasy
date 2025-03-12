@@ -87,6 +87,7 @@
 @media (max-width: 480px) {
   .footer footer {
     grid-template-columns: 1fr;
+    gap:84px;
   }
 
   .footer figure video {
