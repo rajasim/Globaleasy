@@ -127,12 +127,13 @@ body {
   }
 
   .hero-content blockquote {
-    width: 60%;
+    width: 55%;
     margin: 0.5rem 0;
   }
 
   .hero-content blockquote p {
     font-size: 13px;
+    
   }
 
   .nav-links {
