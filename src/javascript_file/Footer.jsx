@@ -93,12 +93,11 @@ function Footer() {
 
        
       </footer>
-      
-    
-    </div>
-    <div className="footerdown">
+      <div className="footerdown">
       © 2025 <span className="highlight">Anuhira Faral</span> | All Rights Reserved. | Made By & ABM Group
    
+    </div>
+    
     </div>
     </>
   );
