@@ -9,7 +9,7 @@ function Footer() {
     });
   }, []);
   return (
-    
+    <>
     <div className="footer" id="foter">
       <footer>
         <blockquote>
@@ -93,11 +93,13 @@ function Footer() {
 
        
       </footer>
-      <div className="footerdown">
-      © 2025 <span className="highlight">Anuhira Faral</span> | All Rights Reserved. | Made By & ABM Group
+      
    
     </div>
+    <div className="footerdown">
+      © 2025 <span className="highlight">Anuhira Faral</span> | All Rights Reserved. | Made By & ABM Group
     </div>
+    </>
   );
 }
 
