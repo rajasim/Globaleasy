@@ -93,7 +93,7 @@ function Footer() {
    
     </div>
     <div className="footerdown">
-      © 2025 <span className="highlight">Global Easy Connect pvt </span> | All Rights Reserved. | Made By  ABM Group
+      © 2024 <span className="highlight">Easy Global Connect pvt </span> | All Rights Reserved. | Made By  ABM Group
     </div>
     </>
   );
