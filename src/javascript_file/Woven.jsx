@@ -4,6 +4,12 @@ import { useNavigate } from "react-router-dom";
 
 const Woven = () => {
   const nav = useNavigate();
+   useEffect(() => {
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth",
+      });
+    }, []);
 
   return (
     <div className="contentent">

@@ -2,6 +2,9 @@ body {
   background-color: #ecececdc;
   color: rgba(10, 0, 74, 0.995);
 }
+::-webkit-scrollbar {
+  display: none;
+}
 
 .metro-container {
   width: 100%;
@@ -129,6 +132,9 @@ body {
   .hero-content blockquote {
     width: 50%;
     margin: 0.5rem 0;
+    height: 40vh;
+    overflow-y: auto;
+
   }
 
   .hero-content blockquote p {
