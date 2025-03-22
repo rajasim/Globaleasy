@@ -79,7 +79,7 @@ body {
 .hero-content blockquote p {
   font-size: 21px;
   color: rgba(73, 9, 9, 0.852);
-  height: 80%;
+  
   text-shadow: 0 0 0.5rem rgba(120, 108, 108, 0.526);
 }
 
