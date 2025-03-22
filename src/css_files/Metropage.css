@@ -77,9 +77,9 @@ body {
 }
 
 .hero-content blockquote p {
-  font-size: 18px;
+  font-size: 21px;
   color: rgba(73, 9, 9, 0.852);
-  
+  height: 80%;
   text-shadow: 0 0 0.5rem rgba(120, 108, 108, 0.526);
 }
 
@@ -88,6 +88,7 @@ body {
   text-shadow: 0 0 0.5rem #b8c1ce;
   color: rgb(10, 13, 95);
   font-size: 51px;
+  width: 100%;
 }
 .hero-content h3 {
   color: rgb(198, 38, 17);
