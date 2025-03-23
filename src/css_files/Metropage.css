@@ -64,7 +64,7 @@ body {
 }
 
 .hero-content {
-  width: 30%;
+  
   text-align: left;
   position: absolute;
   top: 25%;
@@ -74,6 +74,7 @@ body {
 
 .hero-content blockquote {
   margin: 2rem 0;
+  width: 30%;
 }
 
 .hero-content blockquote p {
