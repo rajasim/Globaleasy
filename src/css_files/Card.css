@@ -7,11 +7,12 @@
 }
 
 .goal-text {
-  font-size: 20px;
+  font-size: 21px;
   max-width: 900px;
   margin: 0 auto 40px;
   line-height: 1.5;
-  color: rgba(2, 3, 7, 0.759);
+  color: #1E3A5F;
+  font-family: "Poppins", sans-serif;
 }
 #gobacktohome {
   width: fit-content;
