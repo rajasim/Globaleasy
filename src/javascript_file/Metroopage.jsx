@@ -89,7 +89,7 @@ const Metroopage = () => {
                 trade by crafting a seamless, sustainable, and customer-centric
                 ecosystem.<br></br>
                 <br></br>
-                 We envision system where every transaction not only
+                 We envision system where every transaction not <br></br> only
                 connects buyers and suppliers but also consistently exceeds
                 customer expectations, fostering long-term relationships built
                 on trust, quality, and mutual growth. through our relentless
