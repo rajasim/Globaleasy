@@ -64,12 +64,11 @@ body {
 }
 
 .hero-content {
-  
   text-align: left;
   position: absolute;
   top: 22%;
-  
- left: 80%;
+  left: 2%;
+  transform: translateX(1400px);
 }
 
 .hero-content blockquote {
@@ -80,7 +79,7 @@ body {
 .hero-content blockquote p {
   font-size: 19px;
   color: rgba(73, 9, 9, 0.852);
-  
+
   text-shadow: 0 0 0.5rem rgba(120, 108, 108, 0.526);
 }
 
@@ -122,9 +121,9 @@ body {
   .hero-content {
     width: 50%;
     top: 20%;
+    transform: none;
   }
   .hero-content h1 {
-    
     font-size: 2rem;
   }
   .hero-content h3 {
@@ -136,12 +135,10 @@ body {
     margin: 0.5rem 0;
     height: 40vh;
     overflow-y: scroll;
-
   }
 
   .hero-content blockquote p {
     font-size: 13px;
-    
   }
 
   .nav-links {

@@ -4,39 +4,39 @@ import { useEffect } from "react";
 
 const Metroopage = () => {
   const linkref = useRef();
-  const herocontentref=useRef();
+  const herocontentref = useRef();
 
   useEffect(() => {
-      const observe = (entries, observer) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            const div = entry.target.querySelector("div");
-  
-            div.style.left = "2%";
-            div.style.transition = "left 3s ease";
-  
-            observer.disconnect();
-          }
-        });
-      };
-  
-      const options = {
-        root: null,
-        rootMargin: "15%",
-        threshold: 0.5,
-      };
-      const observer = new IntersectionObserver(observe, options);
-  
-      if (herocontentref.current) {
-        observer.observe(herocontentref.current);
-      }
-  
-      return () => {
-        if (herocontentref.current) {
-          observer.unobserve(herocontentref.current);
+    const observe = (entries, observer) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          const div = entry.target.querySelector("div");
+
+          div.style.transform = "translateX(0px)";
+          div.style.transition = "transform 3s ease";
+
+          observer.disconnect();
         }
-      };
-    }, []);
+      });
+    };
+
+    const options = {
+      root: null,
+      rootMargin: "15%",
+      threshold: 0.5,
+    };
+    const observer = new IntersectionObserver(observe, options);
+
+    if (herocontentref.current) {
+      observer.observe(herocontentref.current);
+    }
+
+    return () => {
+      if (herocontentref.current) {
+        observer.unobserve(herocontentref.current);
+      }
+    };
+  }, []);
 
   return (
     <div className="metro-container">
@@ -57,7 +57,7 @@ const Metroopage = () => {
               <a href="#foter">Contact Us</a>
             </li>
             <li>
-            <a href="#homecontainer">Services</a>
+              <a href="#homecontainer">Services</a>
             </li>
             <li>
               <a href="#foter">Enquire Now</a>
@@ -89,7 +89,7 @@ const Metroopage = () => {
                 trade by crafting a seamless, sustainable, and customer-centric
                 ecosystem.<br></br>
                 <br></br>
-                 We envision system where every transaction not <br></br> only
+                We envision system where every transaction not <br></br> only
                 connects buyers and suppliers but also consistently exceeds
                 customer expectations, fostering long-term relationships built
                 on trust, quality, and mutual growth. through our relentless
