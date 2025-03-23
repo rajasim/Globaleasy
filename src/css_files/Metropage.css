@@ -67,18 +67,18 @@ body {
   
   text-align: left;
   position: absolute;
-  top: 25%;
+  top: 22%;
   left: 80%;
   
 }
 
 .hero-content blockquote {
   margin: 2rem 0;
-  width: 30%;
+  width: 32%;
 }
 
 .hero-content blockquote p {
-  font-size: 21px;
+  font-size: 19px;
   color: rgba(73, 9, 9, 0.852);
   
   text-shadow: 0 0 0.5rem rgba(120, 108, 108, 0.526);
