@@ -27,8 +27,8 @@ function Footer() {
           <h3>Company Information</h3>
           <p>
             <br></br>
-            Companies Registered office:<br></br> F 803 ERR, Kashid Park,<br></br> Pimle
-            Gurav, Pune 411 061. MH. India
+            Companies Registered office:<br></br> F 803 ERR, Kashid Park,<br></br> Pimple Gurav, Pune 411 061. 
+            Maharashtra. India.
           </p>
         </blockquote>
         
