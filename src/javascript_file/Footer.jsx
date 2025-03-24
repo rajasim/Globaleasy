@@ -49,7 +49,7 @@ function Footer() {
               className="mail"
             >
               {" "}
-              <i class="fa-brands fa-square-whatsapp fa-lg" style={{color: "#07b023"}}></i> WHATSAPP : Connect Us
+              <i class="fa-brands fa-square-whatsapp fa-xl" style={{color: "#07b023"}}></i> WHATSAPP : Connect Us
             </a>{" "}
           </p>
         </blockquote>
