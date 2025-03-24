@@ -139,6 +139,7 @@ body {
 
   .hero-content blockquote p {
     font-size: 13px;
+    overflow: hidden;
   }
 
   .nav-links {
