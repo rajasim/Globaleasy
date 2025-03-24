@@ -68,7 +68,7 @@ body {
   position: absolute;
   top: 22%;
   left: 2%;
-  transform: translateX(1400px);
+  transform: translateY(140px);
 }
 
 .hero-content blockquote {
@@ -121,7 +121,7 @@ body {
   .hero-content {
     width: 50%;
     top: 20%;
-    transform: none;
+   
   }
   .hero-content h1 {
     font-size: 2rem;
@@ -134,7 +134,7 @@ body {
     width: 72%;
     margin: 0.5rem 0;
     height: 40vh;
-    overflow-y: scroll;
+  
   }
 
   .hero-content blockquote p {
