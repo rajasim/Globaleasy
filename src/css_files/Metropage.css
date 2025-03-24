@@ -121,7 +121,8 @@ body {
   .hero-content {
     width: 50%;
     top: 20%;
-    overflow: hidden;
+    transform: translateY(111px);
+   
    
   }
   .hero-content h1 {
