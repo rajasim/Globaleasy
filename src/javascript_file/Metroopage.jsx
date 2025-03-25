@@ -60,7 +60,7 @@ const Metroopage = () => {
               <a href="#homecontainer">Services</a>
             </li>
             <li>
-              <a href="#foter">Enquire Now</a>
+              <a href="https://forms.gle/a8n7uWEz8mVpnSfQ8">Enquire Now</a>
             </li>
           </ul>
         </aside>
