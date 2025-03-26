@@ -22,7 +22,7 @@ const Card = () => {
         <button
           className="cta-button"
           onClick={() => {
-            window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScGlixWY3dMXThJmE1UEhK9YZpMhXRZ5_te73YjLJ2zNXPm0A/viewform?usp=header";
           }}
         >
           Enquire Now
@@ -40,7 +40,7 @@ const Card = () => {
         <button
           className="cta-button"
           onClick={() => {
-            window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScGlixWY3dMXThJmE1UEhK9YZpMhXRZ5_te73YjLJ2zNXPm0A/viewform?usp=header";
           }}
         >
           Enquire Now
@@ -58,7 +58,7 @@ const Card = () => {
         <button
           className="cta-button"
           onClick={() => {
-            window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScGlixWY3dMXThJmE1UEhK9YZpMhXRZ5_te73YjLJ2zNXPm0A/viewform?usp=header";
           }}
         >
           Enquire Now
@@ -76,7 +76,7 @@ const Card = () => {
         <button
           className="cta-button"
           onClick={() => {
-            window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScGlixWY3dMXThJmE1UEhK9YZpMhXRZ5_te73YjLJ2zNXPm0A/viewform?usp=header";
           }}
         >
           Enquire Now
@@ -94,7 +94,7 @@ const Card = () => {
         <button
           className="cta-button"
           onClick={() => {
-            window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScGlixWY3dMXThJmE1UEhK9YZpMhXRZ5_te73YjLJ2zNXPm0A/viewform?usp=header";
           }}
         >
           Enquire Now
@@ -113,7 +113,7 @@ const Card = () => {
         <button
           className="cta-button"
           onClick={() => {
-            window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScGlixWY3dMXThJmE1UEhK9YZpMhXRZ5_te73YjLJ2zNXPm0A/viewform?usp=header";
           }}
         >
           Enquire Now
@@ -132,7 +132,7 @@ const Card = () => {
         <button
           className="cta-button"
           onClick={() => {
-            window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScGlixWY3dMXThJmE1UEhK9YZpMhXRZ5_te73YjLJ2zNXPm0A/viewform?usp=header";
           }}
         >
           Enquire Now
@@ -150,7 +150,7 @@ const Card = () => {
         <button
           className="cta-button"
           onClick={() => {
-            window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScGlixWY3dMXThJmE1UEhK9YZpMhXRZ5_te73YjLJ2zNXPm0A/viewform?usp=header";
           }}
         >
           Enquire Now
@@ -168,7 +168,7 @@ const Card = () => {
         <button
           className="cta-button"
           onClick={() => {
-            window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScGlixWY3dMXThJmE1UEhK9YZpMhXRZ5_te73YjLJ2zNXPm0A/viewform?usp=header";
           }}
         >
           Enquire Now
@@ -184,7 +184,7 @@ const Card = () => {
         <button
           className="cta-button"
           onClick={() => {
-            window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScGlixWY3dMXThJmE1UEhK9YZpMhXRZ5_te73YjLJ2zNXPm0A/viewform?usp=header";
           }}
         >
           Enquire Now
@@ -200,7 +200,7 @@ const Card = () => {
         <button
           className="cta-button"
           onClick={() => {
-            window.location.href = "https://forms.gle/a8n7uWEz8mVpnSfQ8";
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScGlixWY3dMXThJmE1UEhK9YZpMhXRZ5_te73YjLJ2zNXPm0A/viewform?usp=header";
           }}
         >
           Enquire Now

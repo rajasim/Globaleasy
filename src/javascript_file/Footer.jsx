@@ -80,7 +80,7 @@ function Footer() {
           </p>
 
           <p>
-            <a href="https://forms.gle/a8n7uWEz8mVpnSfQ8" className="mail">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLScGlixWY3dMXThJmE1UEhK9YZpMhXRZ5_te73YjLJ2zNXPm0A/viewform?usp=header" className="mail">
               {" "}
               <i class="fa-solid fa-circle-user"></i> Enquire Now{" "}
             </a>
