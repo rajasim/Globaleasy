@@ -92,7 +92,7 @@ const Metroopage = () => {
                 We envision system where every transaction not  only
                 connects buyers and suppliers but also consistently exceeds
                 customer expectations, fostering long-term relationships built
-                on trust, quality, and mutual growth. through our relentless
+                on trust, quality, and mutual growth through our relentless
                 pursuit of excellence and customer satisfaction.
               </p>
             </blockquote>
