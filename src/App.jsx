@@ -7,6 +7,7 @@ import Rubbercard from "./javascript_file/Rubbercard";
 import Deired from "./javascript_file/Deired";
 import Woven from "./javascript_file/Woven";
 import Services from "./javascript_file/Services";
+import Toy from "./javascript_file/Toy";
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
 
@@ -28,10 +29,10 @@ function App() {
       />
       <Route path="/services" element={<Services />} />
       <Route path="/woven" element={<Woven />} />
-      <Route path="/deired" element={<Deired />} />
-      <Route path="/rubbercard" element={<Rubbercard />} />
-    </Routes>
+      <Route path="/deired" element={<Deired />} />  
+      <Route path="/toy" element={<Toy/>}  />
+      </Routes>
   );
-}
+} 
 
 export default App;

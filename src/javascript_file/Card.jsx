@@ -15,43 +15,17 @@ const Card = () => {
         <div
           className="card"
           onClick={() => {
-            nav("/rubbercard");
+            nav("/toy");
           }}
           id="rubbercard"
         >
-          <img src="/images/pol.jpeg"></img>
+          <img src="/images/WhatsApp Image 2025-06-04 at 8.43.34 PM.jpeg"></img>
           <div className="text-section">
-            <h3>Engineering Rubber & Polymer Products</h3>
+            <h3>Eazy Magnetic Building Colorful link Blocks & Balls for Kids</h3>
             <p>
               Precision Engineered Products for Strength, Durability &
               Performance
             </p>
-          </div>
-        </div>
-        <div
-          className="card"
-          onClick={() => {
-            nav("/deired");
-          }}
-          id="deired"
-        >
-          <img src="/images/food.jpeg"></img>
-          <div className="text-section">
-            <h3>Dried & Processed Food / Root products</h3>
-            <p>Premium Dried & Processed Foods for a Healthier Tomorrow</p>
-          </div>
-        </div>
-        <div
-          className="card"
-          onClick={() => {
-            nav("/woven");
-          }}
-          id="woven"
-        >
-          <img src="/images/wove.jpeg"></img>
-          <div className="text-section">
-            <h3>Woven and Knitted Fabric Products</h3>
-            <p>Precision-Crafted Fabrics for Comfort, Style, and Durability</p>
           </div>
         </div>
         <div
@@ -67,6 +41,50 @@ const Card = () => {
             <p>Setting Global Standards, Achieving Business Excellence</p>
           </div>
         </div>
+        <div
+          className="card"
+          onClick={() => {
+            nav("/deired");
+          }}
+          id="deired"
+        >
+          <img src="/images/food.jpeg"></img>
+          <div className="text-section">
+            <h3>Dried & Processed Food / Root products</h3>
+            <p>Premium Dried & Processed Foods for a Healthier Tomorrow</p>
+          </div>
+        </div>
+          <div
+          className="card"
+          onClick={() => {
+            nav("/rubbercard");
+          }}
+          id="rubbercard"
+        >
+          <img src="/images/pol.jpeg"></img>
+          <div className="text-section">
+            <h3>Engineering Rubber & Polymer Products</h3>
+            <p>
+              Precision Engineered Products for Strength, Durability &
+              Performance
+            </p>
+          </div>
+        </div>
+        
+        <div
+          className="card"
+          onClick={() => {
+            nav("/woven");
+          }}
+          id="woven"
+        >
+          <img src="/images/wove.jpeg"></img>
+          <div className="text-section">
+            <h3>Woven and Knitted Fabric Products</h3>
+            <p>Precision-Crafted Fabrics for Comfort, Style, and Durability</p>
+          </div>
+        </div>
+       
       </div>
     </div>
   );

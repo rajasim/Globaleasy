@@ -36,16 +36,16 @@ function Footer() {
           <h3>Contact US</h3>
           <p>
             {" "}
-            <i class="fa-solid fa-phone fa-lg " style={{color:"gray"}}></i> Cell : +91-9922 925 855
+            <i class="fa-solid fa-phone fa-lg " style={{color:"gray"}}></i> Cell : +91-8788704678
           </p>
           <p>
             {" "}
             <img src="/images/gmail.png" style={{height:"1.2rem"}}></img> Email :
-            easyglobalconnects@gmail.com
+            globalconnects@gmail.com
           </p>
           <p>
             <a
-              href="https://wa.me/919922925855?text=Hello%2C%20I%20am%20interested%20in%20your%20services"
+              href="https://wa.me/918788704678?text=Hello%2C%20I%20am%20interested%20in%20your%20services"
               className="mail"
             >
               {" "}
@@ -61,17 +61,17 @@ function Footer() {
           
           <p>
             <a
-              href="https://www.linkedin.com/company/106591839/admin/dashboard/"
+              href=""
               className="mail"
             >
               {" "}
-              <i class="fa-brands fa-linkedin " style={{color:"skyblue"}}></i> EASY GLOBAL LINKEDIN.com
+              <i class="fa-brands fa-linkedin " style={{color:"skyblue"}}></i>  GLOBAL CONNECT LINKEDIN.com
             </a>
           </p>
 
           <p>
             <a
-              href="https://www.indiamart.com/company/16770388/"
+              href=""
               className="mail"
             >
               {" "}
@@ -92,9 +92,7 @@ function Footer() {
       
    
     </div>
-    <div className="footerdown">
-      © 2024 <span className="highlight">Easy Global Connect  </span> | All Rights Reserved. | Made By  ABM Group
-    </div>
+   
     </>
   );
 }

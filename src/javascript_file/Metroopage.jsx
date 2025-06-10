@@ -81,11 +81,11 @@ const Metroopage = () => {
           <img src="/images/gl.jpeg" />
 
           <div className="hero-content">
-            <h1>Easy Global Connect</h1>
+            <h1>Global Connect</h1>
             <h3>Bridging Borders, Building Futures</h3>
             <blockquote>
               <p>
-                At Easy Global Connect, our vision is to revolutionize global
+                At  Global Connect, our vision is to revolutionize global
                 trade by crafting a seamless, sustainable, and customer-centric
                 ecosystem.<br></br>
                 <br></br>
