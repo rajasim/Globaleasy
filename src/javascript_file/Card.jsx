@@ -21,10 +21,9 @@ const Card = () => {
         >
           <img src="/images/WhatsApp Image 2025-06-04 at 8.43.34 PM.jpeg"></img>
           <div className="text-section">
-            <h3>Eazy Magnetic Building Colorful link Blocks & Balls for Kids</h3>
+            <h3>Easy Magnetic Building Colorful link Blocks & Balls for Kids</h3>
             <p>
-              Precision Engineered Products for Strength, Durability &
-              Performance
+             Bring home the toy that makes learning magnetic. Order now and watch your child build, play, and grow every day.
             </p>
           </div>
         </div>
