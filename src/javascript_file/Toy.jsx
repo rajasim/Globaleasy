@@ -14,9 +14,9 @@ const Toy = () => {
   return (
     <div className="contentent">
       <div className="box">
-        <h2 className="offer">Dried Fruits </h2>
+        <h2 className="offer"> Magnetic STEM Toy Set </h2>
         <img src="/images/WhatsApp Image 2025-06-04 at 8.44.23 PM.jpeg" alt="Gift Card" className="image" />
-        <p className="text">Naturally Delicious & Nutritious Dried Fruits </p>
+        <p className="text"> Unleash the Power of Play with Our 36-Pieces Magnetic STEM Toy Sets </p>
         <button
           className="cta-button"
           onClick={() => {
