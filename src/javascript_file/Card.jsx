@@ -23,7 +23,7 @@ const Card = () => {
           <div className="text-section">
             <h3>Easy Magnetic Building Colorful link Blocks & Balls for Kids</h3>
             <p>
-             Bring home the toy that makes learning magnetic. Order now and watch your child build, play, and grow every day.
+             Bring home the toy that makes learning magnetic. Order now 
             </p>
           </div>
         </div>
