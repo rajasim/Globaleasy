@@ -81,7 +81,7 @@ const Metroopage = () => {
           <img src="/images/gl.jpeg" />
 
           <div className="hero-content">
-            <h1>Easy global connect</h1>
+            <h1>Easy Global Connect</h1>
             <h3>Bridging Borders, Building Futures</h3>
             <blockquote>
               <p>
