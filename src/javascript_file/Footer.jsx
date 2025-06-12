@@ -65,7 +65,7 @@ function Footer() {
               className="mail"
             >
               {" "}
-              <i class="fa-brands fa-linkedin " style={{color:"skyblue"}}></i>  GLOBAL CONNECT LINKEDIN.com
+              <i class="fa-brands fa-linkedin " style={{color:"skyblue"}}></i>Easy  GLOBAL CONNECT LINKEDIN.com
             </a>
           </p>
 
