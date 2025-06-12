@@ -47,7 +47,7 @@ function About() {
         <aside>
           <blockquote style={{ width: "70%", margin: "0 auto" }}>
             <h1>About Us</h1>
-            <h1>@  Global Connect</h1>
+            <h1>@  Easy global connect</h1>
           </blockquote>
           <blockquote>
             <p>

@@ -36,16 +36,16 @@ function Footer() {
           <h3>Contact US</h3>
           <p>
             {" "}
-            <i class="fa-solid fa-phone fa-lg " style={{color:"gray"}}></i> Cell : +91-8788704678
+            <i class="fa-solid fa-phone fa-lg " style={{color:"gray"}}></i> Cell : +91-99229 25855
           </p>
           <p>
             {" "}
             <img src="/images/gmail.png" style={{height:"1.2rem"}}></img> Email :
-            globalconnects@gmail.com
+            Easyglobalconnects@gmail.com
           </p>
           <p>
             <a
-              href="https://wa.me/918788704678?text=Hello%2C%20I%20am%20interested%20in%20your%20services"
+              href="https://wa.me/9199229 25855?text=Hello%2C%20I%20am%20interested%20in%20your%20services"
               className="mail"
             >
               {" "}
@@ -61,7 +61,7 @@ function Footer() {
           
           <p>
             <a
-              href=""
+              href="https://www.linkedin.com/company/106591839/admin/dashboard/"
               className="mail"
             >
               {" "}
@@ -71,7 +71,7 @@ function Footer() {
 
           <p>
             <a
-              href=""
+              href="https://www.indiamart.com/company/16770388/"
               className="mail"
             >
               {" "}

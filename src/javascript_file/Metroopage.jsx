@@ -85,7 +85,7 @@ const Metroopage = () => {
             <h3>Bridging Borders, Building Futures</h3>
             <blockquote>
               <p>
-                At  Global Connect, our vision is to revolutionize global
+                At Easy global connect, our vision is to revolutionize global
                 trade by crafting a seamless, sustainable, and customer-centric
                 ecosystem.<br></br>
                 <br></br>
